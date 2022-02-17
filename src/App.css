@@ -1,0 +1,66 @@
+.d-flex {
+    display: flex;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.a-center {
+    align-items: center;
+}
+
+.j-center {
+    justify-content: center;
+}
+
+.s-btw {
+    justify-content: space-between;
+}
+
+.s-around {
+    justify-content: space-around;
+}
+
+.overFlowBreakWord {
+    overflow-wrap: break-word;
+}
+
+.carouselSize {
+    width: 200px;
+    height: 200px;
+}
+
+.carouselSize img {
+    width: 200px;
+    height: 200px;
+}
+
+.singleRecipe {
+    background-color: #eae9e9;
+    margin: 10px;
+    overflow-wrap: break-word;
+    width: 200px;
+}
+
+.viewSingleRecipe {
+    background-color: #eae9e9;
+    margin: 10px;
+    overflow-wrap: break-word;
+    padding: 20px;
+    width: 70%;
+}
+
+.viewCarouselSize {
+    width: 600px;
+    height: 400px;
+}
+
+.viewCarouselSize img {
+    width: 600px;
+    height: 400px;
+}
